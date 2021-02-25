@@ -1,0 +1,25 @@
+﻿@page
+@model Proiect_Nohai.DetailsModel2
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalii</h1>
+
+<div>
+    <h4>Reducere</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Reducere.TipReducere)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Reducere.TipReducere)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Reducere.ID">Edit</a> |
+    <a asp-page="./Index">Înapoi la listă</a>
+</div>

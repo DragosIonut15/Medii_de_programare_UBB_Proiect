@@ -1,0 +1,28 @@
+﻿@page
+@model Proiect_Nohai.DeleteModel2
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Șterge reducere</h1>
+
+<h3>Ești sigur că vrei să ștergi reducerea?</h3>
+<div>
+    <h4>Reducere</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Reducere.TipReducere)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Reducere.TipReducere)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Reducere.ID" />
+        <input type="submit" value="Șterge" class="btn btn-danger" /> |
+        <a asp-page="./Index">Înapoi la listă</a>
+    </form>
+</div>

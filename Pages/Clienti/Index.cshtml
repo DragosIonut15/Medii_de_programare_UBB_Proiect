@@ -1,0 +1,43 @@
+﻿@page
+@model Proiect_Nohai.IndexModel1
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Clienți</h1>
+<p><b>În această pagina puteți adăuga clienții precum și reducerea de care aceștia beneficiază. </b></p>
+
+<p>
+    <a asp-page="Create">Adaugă client</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Client[0].NumeClient)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Client[0].Reducere.TipReducere)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Client) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeClient)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Reducere.TipReducere)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ID">Editare</a> |
+                <a asp-page="./Details" asp-route-id="@item.ID">Detalii</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ID">Ștergere</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

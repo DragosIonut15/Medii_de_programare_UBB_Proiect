@@ -1,0 +1,59 @@
+﻿@page
+@model Proiect_Nohai.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Adaugă bilet</h1>
+
+<h4>Bilet</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Bilet.EchipaGazda" class="control-label"></label>
+                <input asp-for="Bilet.EchipaGazda" class="form-control" />
+                <span asp-validation-for="Bilet.EchipaGazda" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bilet.EchipaOaspete" class="control-label"></label>
+                <input asp-for="Bilet.EchipaOaspete" class="form-control" />
+                <span asp-validation-for="Bilet.EchipaOaspete" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bilet.DataJocului" class="control-label"></label>
+                <input asp-for="Bilet.DataJocului" class="form-control" />
+                <span asp-validation-for="Bilet.DataJocului" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bilet.BileteCumparate" class="control-label"></label>
+                <input asp-for="Bilet.BileteCumparate" class="form-control" />
+                <span asp-validation-for="Bilet.BileteCumparate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bilet.Pret" class="control-label"></label>
+                <input asp-for="Bilet.Pret" class="form-control" />
+                <span asp-validation-for="Bilet.Pret" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bilet.ClientID" class="control-label">Nume client</label>
+                <select asp-for="Bilet.ClientID" class="form-control" asp-items="ViewBag.ClientID"></select>
+                <span asp-validation-for="Bilet.ClientID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Inapoi</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

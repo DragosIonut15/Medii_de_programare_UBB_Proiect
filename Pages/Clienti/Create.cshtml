@@ -1,0 +1,39 @@
+﻿@page
+@model Proiect_Nohai.CreateModel1
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Adaugă client</h1>
+
+<h4>Client</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Client.NumeClient" class="control-label"></label>
+                <input asp-for="Client.NumeClient" class="form-control" />
+                <span asp-validation-for="Client.NumeClient" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client.ReducereID" class="control-label">Reducere</label>
+                <select asp-for="Client.ReducereID" class="form-control" asp-items="ViewBag.ReducereID"></select>
+                <span asp-validation-for="Client.ReducereID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Inapoi la lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

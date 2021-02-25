@@ -1,0 +1,69 @@
+﻿@page "/"
+@model Proiect_Nohai.IndexModel
+
+@{
+    ViewData["Title"] = "Bilete meciuri";
+}
+
+<h1>Bilete meciuri</h1>
+<p><b>În această pagină se pot vizualiza biletele comandate de către fiecare persoană. </b></p>
+
+<p>
+    <a asp-page="Create">Adaugă bilet</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Bilet[0].EchipaGazda)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bilet[0].EchipaOaspete)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bilet[0].DataJocului)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bilet[0].BileteCumparate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bilet[0].Pret)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bilet[0].Client.NumeClient)
+            </th>
+        
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Bilet) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EchipaGazda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EchipaOaspete)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataJocului)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BileteCumparate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pret)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Client.NumeClient)
+            </td>
+            
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ID">Editare</a> |
+                <a asp-page="./Details" asp-route-id="@item.ID">Detalii</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ID">Ștergere</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,58 @@
+﻿@page
+@model Proiect_Nohai.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Ștergere</h1>
+
+<h3>Ești sigur că vrei să ștergi acest bilet?</h3>
+<div>
+    <h4>Bilet</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Bilet.EchipaGazda)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Bilet.EchipaGazda)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Bilet.EchipaOaspete)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Bilet.EchipaOaspete)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Bilet.DataJocului)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Bilet.DataJocului)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Bilet.BileteCumparate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Bilet.BileteCumparate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Bilet.Pret)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Bilet.Pret)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Bilet.Client)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Bilet.Client.NumeClient)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Bilet.ID" />
+        <input type="submit" value="Șterge" class="btn btn-danger" /> |
+        <a asp-page="./Index">Înapoi la listă</a>
+    </form>
+</div>

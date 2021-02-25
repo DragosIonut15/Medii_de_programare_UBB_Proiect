@@ -1,0 +1,326 @@
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.exe
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.csprojAssemblyReference.cache
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\staticwebassets\Proiect_Nohai.StaticWebAssets.Manifest.cache
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\staticwebassets\Proiect_Nohai.StaticWebAssets.xml
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.RazorAssemblyInfo.cache
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.RazorAssemblyInfo.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.AssemblyInfoInputs.cache
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.AssemblyInfo.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.TagHelpers.input.cache
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.TagHelpers.output.cache
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.RazorCoreGenerate.cache
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.RazorTargetAssemblyInfo.cache
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.RazorTargetAssemblyInfo.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.csproj.CopyComplete
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.deps.json
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.runtimeconfig.json
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.runtimeconfig.dev.json
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.pdb
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.Views.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.Views.pdb
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.MvcApplicationPartsAssemblyInfo.cache
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.Views.pdb
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.dll
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.pdb
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Clienti\Create.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Clienti\Delete.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Clienti\Details.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Clienti\Edit.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Clienti\Index.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Reduceri\Create.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Reduceri\Delete.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Reduceri\Details.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Reduceri\Edit.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Reduceri\Index.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Bilete\Create.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Bilete\Delete.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Bilete\Details.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Bilete\Edit.cshtml.g.cs
+D:\Informatica-Economica\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Bilete\Index.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.exe
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.deps.json
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.runtimeconfig.json
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.runtimeconfig.dev.json
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.pdb
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.Views.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Proiect_Nohai.Views.pdb
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.csprojAssemblyReference.cache
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\staticwebassets\Proiect_Nohai.StaticWebAssets.Manifest.cache
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\staticwebassets\Proiect_Nohai.StaticWebAssets.xml
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.MvcApplicationPartsAssemblyInfo.cache
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.RazorAssemblyInfo.cache
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.RazorAssemblyInfo.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.AssemblyInfoInputs.cache
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.AssemblyInfo.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.TagHelpers.input.cache
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.TagHelpers.output.cache
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.RazorCoreGenerate.cache
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Bilete\Create.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Bilete\Delete.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Bilete\Details.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Bilete\Edit.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Bilete\Index.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Clienti\Create.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Clienti\Delete.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Clienti\Details.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Clienti\Edit.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Clienti\Index.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Reduceri\Create.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Reduceri\Delete.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Reduceri\Details.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Reduceri\Edit.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Reduceri\Index.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.RazorTargetAssemblyInfo.cache
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.RazorTargetAssemblyInfo.cs
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.Views.pdb
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.csproj.CopyComplete
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.dll
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.pdb
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.csproj.CoreCompileInputs.cache
+D:\Informatica-Economica\An 3 Semestrul 1\Medii de programare si dezvoltare\ProiectWEB2\Proiect_Nohai\obj\Debug\netcoreapp3.1\Proiect_Nohai.genruntimeconfig.cache
